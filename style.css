@@ -1,0 +1,45 @@
+body{
+    background-image: url(FUNDO\ PARIS.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: brown;
+    color: white;
+    padding: 20px;
+    text-align: center;
+
+}
+
+header h1{
+    margin: 0px;
+
+}
+main{
+    padding: 20px;
+
+}
+
+main article{
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: rgba(255 , 13, 19, 0.5);
+}
+
+main article h2{
+    color: white;
+
+}
+
+footer{
+    background-color: brown;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
